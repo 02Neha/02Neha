@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @02Neha
-- 👀 I’m interested in ...
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning data analysis and alogrithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkdin profile (Neha Yadav Graphic era university student)
